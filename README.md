@@ -1,2 +1,2 @@
-# 2022II_gbi6
-Repositorio para la clase GBI6 Bionformática PAO2 2022
+# BIOINFORMÁTICA - GBI2 PAO2 2022
+Repositorio principal de la clase. 
